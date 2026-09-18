@@ -1,0 +1,28 @@
+{
+  "name": "saffron-events-catering",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marketing site for a premium catering business — Next.js App Router + Tailwind CSS",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/jost": "^5.3.0",
+    "next": "^16.3.5",
+    "postcss": "^8.5.6",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tailwindcss": "^4.3.3",
+    "@tailwindcss/postcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
