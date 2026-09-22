@@ -2,6 +2,7 @@
 
 A clean, modern marketing website for a catering business built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
+
 ---
 
 ## 🚀 Quick Start
